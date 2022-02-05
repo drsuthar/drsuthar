@@ -4,8 +4,12 @@
 
 # About Me
 -   😄  Pronouns: DR
--   🎓  I am doing M.Tech. from BITS Pilani.
 -   🏢  I am working as Senior Data Analyst with Chegg.
+-   🎓  I am doing M.Tech. from BITS Pilani.
+-   🎓  I have done my B.Tech. from MNIT Jaipur.
+-   📧  deepaksuthar000@gmail.com
+-   🕸️ https://www.linkedin.com/in/drsmnit/
+
 
 
 # 🧰 Languages and Tools:
