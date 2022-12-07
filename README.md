@@ -20,6 +20,9 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" height="40" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/coherencez/tech-logos/master/mongo.png" alt="mongodb" height="40" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/coherencez/tech-logos/master/postgres.png" alt="redshift" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" alt="jupyter" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" alt="redshift" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://camo.githubusercontent.com/c13034cf5ce18abda1a57109359a1d8656ba197b60a4c8c2bfd9cf95ad4824ca/68747470733a2f2f63646e6c2e74626c7366742e636f6d2f73697465732f64656661756c742f66696c65732f70616765732f7461626c6561756c6f676f5f686967687265732e706e67" alt="tableau" height="40" style="vertical-align:top; margin:4px">
   
 </p>
 
