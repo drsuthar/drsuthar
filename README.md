@@ -4,9 +4,10 @@
 
 # About Me
 -   😄  Pronouns: DR
--   🏢  I am working as Senior Data Analyst with Chegg.
+-   🏢  I am working as Lead Analyst with Chegg.
 -   🎓  I am doing M.Tech. from BITS Pilani.
 -   🎓  I have done my B.Tech. from MNIT Jaipur.
+-   🎓  Certified Data Scietist
 -   📧  deepaksuthar000@gmail.com
 -   🕸️ https://www.linkedin.com/in/drsmnit/
 
