@@ -30,8 +30,8 @@
 
 
 
-[![Deepa Ram's GitHub stats](https://github-readme-stats.vercel.app/api?username=drsmnit&show_icons=true&theme=anuraghazra)](https://github.com/drsmnit/github-readme-stats)
+[![Deepa Ram's GitHub stats](https://github-readme-stats.vercel.app/api?username=drsuthar&show_icons=true&theme=anuraghazra)](https://github.com/drsuthar/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drsmnit)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drsuthar)](https://github.com/anuraghazra/github-readme-stats)
 
